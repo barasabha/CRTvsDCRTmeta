@@ -1,0 +1,26 @@
+No,First Author,Year,Training Method,Subject,n,Duration (weeks),Weekly sessions,Total sessions,Effective minutes,Total duration,DCRT Program,CRT Program,Control group,MMSE Input (DCRT),MMSE Output (DCRT),MMSE Input (CRT),MMSE Output (CRT),MMSE Input (Control),MMSE Output (Control)
+1,Arica Polat & Karadas,2021,DCRT,Dementia,11,12,3,36,30,1080,NoroSOFT cognitive training program,-,-,24.27 ± 3.31,25.72 ± 2.49,-,-,-,-
+2,Byeon,2018,Both,Dementia,25,12,4,48,20,960,"Computer-based cognitive rehabilitation
+program for Koreans (CoTras)",pencil and paper and table top activity,-,16.15 ± 4.51,19.35 ± 4.27,16.41 ± 4.10,18.58 ± 3.88,-,-
+3,Carcelen-Fraile,2022,CRT,MCI,71,12,3,36,60,2160,-,"exercise on memory, language, calculation, praxis and gnosis, executive functions",usual care,-,-,25.08 ± 0.84,25.44 ± 0.74,25.14 ± 0.81,25.09 ± 0.80 
+4,Cipriani,2006,DCRT,Both,20,4,4,16,45,720,NPT software,-,-,23.9 ± 2.4 (AD),26 ± 1.7 (AD),-,-,-,-
+,,,,,,,,,,,,,,28 ± 1.4 (MCI)        ,28.7 ± 1.3 (MCI),-,-,-,-
+5,Diaz Baquero,2022,DCRT,Both,23,52,2.5,130,30,3900,GRADIOR,-,routine daily care,24.28 ± 2.54,23.43 ± 2.56,-,-,24.15 ± 4.2,24.22 ± 5
+6,Kawashima,2015,CRT,Dementia,39,26,5,130,20,2600,-,SAIDO learning,TAU,-,-,16.8 ± 5.4,18.2 ± 4.9,17.7 ± 2.7,14.3 ± 3.8
+7,Lee,2013,Both,Dementia,19,6,2,12,30,360,computer-assisted errorless learning program,therapist-led training program,general cognitively challenging activities,17 ± 3.58,19.67 ± 5.2,17.67 ± 4.76,19 ± 4.73,15.29 ± 2.75,17.29 ± 3.15
+8,Lee,2018,DCRT,Both,20,3,4,12,30,360,Bettercog,-,-,19.2 ± 3.9,21.3 ± 4,-,-,-,-
+,,,,,,,,,,,COMCOG,-,-,16.6 ± 6,17.7 ± 6.2,-,-,-,-
+9,Li,2019,DCRT,MCI,141,6,4,24,40,960,Computerised cognitive training,-,No method explained,28.0 ± 1.7,28.23 ± 0.23,-,-,28.0 ± 1.7,27.5 ± 0.23
+10,Lu,2024,DCRT,MCI,32,12,4,48,40,1920,Computerised cognitive training,-,CCT for cognitively unimpaired controls,27.43 ± 2.21,26 ± 2.60 ,-,-,26.72 ± 1.99,26 ± 3.01
+11,Oliveira,2021,DCRT,Dementia,17,6,2,12,45,540,non-immersive VR depicting the IADL,-,TAU,18.6 ± 6.5,19.8 ± 7.3 ,-,-,13 ± 7.5,12.4 ± 7.2
+12,Petri,2024,DCRT,MCI,20,6,2,12,60,720,RehaCom software,-,Psychoeducation,20.6 ± 2.83        ,24.4 ± 3.68,-,-,20.30 ± 2.40,19.90 ± 2.84
+13,Prokopenko,2017,DCRT,MCI,68,-,-,10,40,400,Neurophysiological computer program,-,Distracting computer games,25 [23.4; 28],27 [24.7; 31.1],-,-,26 [24.3; 29.4],28 [26.3; 31.3]
+,,,,,,,,,,,,-,Passive control,-,-,-,-,26 [24.3; 29],26 [23.7; 30.1]
+14,Savulich,2017,DCRT,MCI,42,4,2,8,60,480,Game Show,-,Clinic visit as usual,26.6 ± 2.9,27.4 ± 1.5,-,-,26.8 ± 2.2,26.1 ± 2.4
+15,Tian,2021,CRT,MCI,93,6,7,42,30,1260,-,"language and expression, attention and calculation, orientation, memory, psychological support, and daily living
+ability training",Conventional nursing,-,-,25.51 ± 0.95, 27.17 ± 1.66,25.41 ± 1.01,26.22 ± 1.44
+16,Han,2017,DCRT,MCI,43,4,2,8,30,240,USMART program,-,usual care,25.49 ± 3.40,26.37 ± 2.99,-,-,25.83 ± 2.92,25.76 ± 3.28
+17,De Luca,2016,Both,Dementia,20,8,3,24,45,1080,Web-based cognitive training,paper-and-pencil modality,-,24.5 ± 1.5,27.5 ± 2.5,25.8 ± 2,23.8 ± 4.3,-,-
+,,,,,704,179,53.5,608,655,19740,,,,,,,,,
+,,,,,41.41176471,10.52941176,3.147058824,35.76470588,38.52941176,1161.176471,,,,,,,,,
+,,,,,34.20902444,12.25952011,1.375,38.1043459,12.84093867,974.6658553,,,,,,,,,
